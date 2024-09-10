@@ -6,7 +6,7 @@ def hello():
     """
     This function returns a greeting message.
     """
-    return "Hello Dosto"
+    return "Hello friends"
 
 
 if __name__ == "__main__":
